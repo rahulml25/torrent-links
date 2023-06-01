@@ -13,6 +13,6 @@
 - ***wait*** until installation ends, **It may take 4-6 hours**.
 - **Don't run the game**
 
-## 2st Step
+## 2nd Step
 Download the update [**HERE**](https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3Af9e9f3f4bd988e413f116f162d784d2efb450ff7%26dn%3DForza%2520Horizon%25204%2520update%25201.465.282%2520-%25201.477.567%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce), and run the **horizone update file**.
 - Turn on **Windows Defender**, restart your PC.
