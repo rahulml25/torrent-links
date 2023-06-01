@@ -5,7 +5,9 @@
 - Check all bin files using `Verify BIN files before installation.bat` file
 - Turn **windows defender off**
 - Run setup in `compatibility mode` and `As Administrator`
+
     ![screenshort](../images/Screenshot%202023-06-01%20181454.png)
+
 - If your RAM less or 8GB, so tick `use 2GB or 3GB RAM`
 - Go to settings, set `Screen and Sleep` to never
 - ***wait*** until installation ends, **It may take 4-6 hours**.
